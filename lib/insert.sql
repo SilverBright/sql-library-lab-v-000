@@ -22,3 +22,4 @@ VALUES
   (1, "Cayde-6", "Exo", "My beautiful horn", 1, 1),
   (1, "Harry Potter", "Human", "Expecto Patronus", 1, 1),
   (1, "Tinkerbell", "Fairy", "-rings a bell-", 1, 1);
+  
