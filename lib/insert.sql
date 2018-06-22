@@ -22,3 +22,8 @@ VALUES
   (6, 'Cayde-6', 'Exo', 'My beautiful horn', 1, 1),
   (7, 'Harry Potter', 'Human', 'Expecto Patronum', 1, 1),
   (8, 'Tinkerbell', 'Fairy', 'rings a bell', 1, 1);
+
+INSERT INTO subgenres
+VALUES
+  (1, "Science Fiction"),
+  (2, "Fantasy");
