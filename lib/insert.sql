@@ -28,7 +28,7 @@ VALUES
   (1, "Science Fiction"),
   (2, "Fantasy");
 
-INSERT INTO subgenres
+INSERT INTO authors
 VALUES
   (1, "Bob"),
   (2, "Sally");
