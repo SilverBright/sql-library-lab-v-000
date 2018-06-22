@@ -1,5 +1,5 @@
 def select_books_titles_and_years_in_first_series_order_by_year
-  "SELECT books.title, books.year
+  "SELECT title, year
   FROM books
   WHERE series_id = 1
   ORDER BY year;"
@@ -21,7 +21,7 @@ def select_value_and_count_of_most_prolific_species
 end
 
 def select_name_and_series_subgenres_of_authors
-  "Write your SQL query here"
+  "SELECT "
 end
 
 def select_series_title_with_most_human_characters
