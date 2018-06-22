@@ -1,3 +1,3 @@
 UPDATE characters
-SET Martian
-WHERE species=Fairy;
+SET species=Martian
+WHERE species=Fairy
