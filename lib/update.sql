@@ -1,3 +1,3 @@
 UPDATE characters
-SET characters.species='Martian'
-WHERE characters.species='Fairy';
+SET (characters.species)='Martian'
+WHERE (characters.species)='Fairy';
