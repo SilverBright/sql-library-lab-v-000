@@ -21,4 +21,4 @@ VALUES
   (1, "Gary", "Cabal", "Death to the Traveler", 1, 1),
   (1, "Cayde-6", "Exo", "My beautiful horn", 1, 1),
   (1, "Harry Potter", "Human", "Expecto Patronum", 1, 1),
-  (1, "Tinkerbell", "Fairy", "-rings a bell-", 1, 1);
+  (1, "Tinkerbell", "Fairy", "rings a bell", 1, 1);
